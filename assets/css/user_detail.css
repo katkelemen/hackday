@@ -39,7 +39,7 @@
 .contact .controls .cont {
     position: absolute;
     z-index: 2;
-    top: 80px;
+    top: 120px;
     left: 0;
     right: 0;
     text-align: center;
@@ -59,7 +59,7 @@
     margin: 0 0 10px;
     position: relative;
     z-index: 2;
-    text-shadow: 0 0 3px rgba(0,0,0,.8);
+    text-shadow: 4px 2px 8px rgba(0,0,0,.8);
 }
 .contact .controls .ui-mark {
     display: inline-block;
