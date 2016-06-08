@@ -290,12 +290,12 @@ Main components
 #cd-timeline .cd-timeline-content .cd-read-more {
   float: right;
   padding: .8em 1em;
-  background: #acb7c0;
+  background: #fbb738;
   color: white;
   border-radius: 0.25em;
 }
 .no-touch #cd-timeline .cd-timeline-content .cd-read-more:hover {
-  background-color: #bac4cb;
+  background-color: #efae35;
 }
 #cd-timeline .cd-timeline-content .cd-date {
   float: left;
