@@ -2,7 +2,7 @@
 .nav.nav-tabs-custom-colored > li.active > a, 
 .nav.nav-tabs-custom-colored > li.active > a:hover, 
 .nav.nav-tabs-custom-colored > li.active > a:focus {
-  background-color: #fbc722;
+  background-color: rgb(251,183,56);
   color: #fff;
   cursor: pointer;
 }
@@ -60,8 +60,8 @@
 .data-row .data-name {
   width: 12em;
     color: #fff;
-  background-color: #fbc722;
-  border-color: #fbc722;
+  background-color: rgb(251,183,56);
+  border-color: rgb(251,183,56);
   font-size: 0.9em;
   vertical-align: top;
 }

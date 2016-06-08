@@ -787,8 +787,8 @@ fieldset[disabled] .btn-sky.active {
 
 .btn-azure,
 .btn-azure:focus {
-    background-color: #fbc722 !important;
-    border-color: #fbc722;
+    background-color: rgb(251,183,56) !important;
+    border-color: rgb(251,183,56);
     color: #fff
 }
 
@@ -815,8 +815,8 @@ fieldset[disabled] .btn-sky.active {
 
 .btn-azure:hover,
 .open .btn-azure.dropdown-toggle {
-    background-color: #fbc722 !important;
-    border-color: #fbc722;
+    background-color: rgb(251,183,56) !important;
+    border-color: rgb(251,183,56);
     color: #fff
 }
 
@@ -835,8 +835,8 @@ fieldset[disabled] .btn-azure:active,
 .btn-azure.disabled.active,
 .btn-azure[disabled].active,
 fieldset[disabled] .btn-azure.active {
-    background-color: #fbc722 !important;
-    border-color: #fbc722;
+    background-color: rgb(251,183,56) !important;
+    border-color: rgb(251,183,56);
     zoom: 1;
     filter: alpha(opacity=50);
     -webkit-opacity: .5;
