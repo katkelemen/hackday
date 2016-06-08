@@ -787,8 +787,8 @@ fieldset[disabled] .btn-sky.active {
 
 .btn-azure,
 .btn-azure:focus {
-    background-color: #2dc3e8 !important;
-    border-color: #2dc3e8;
+    background-color: #fbc722 !important;
+    border-color: #fbc722;
     color: #fff
 }
 
@@ -797,7 +797,7 @@ fieldset[disabled] .btn-sky.active {
 }
 
 .btn-azure.dropdown-toggle {
-    border-left-color: #3ecdf1 !important
+    border-left-color: #fbc722 !important
 }
 
 .btn-azure.active {
@@ -807,16 +807,16 @@ fieldset[disabled] .btn-sky.active {
 
 .btn-azure.shiny {
     background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9Imxlc3NoYXQtZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMzZWNkZjEiIHN0b3Atb3BhY2l0eT0iMSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzJiYWRjZSIgc3RvcC1vcGFjaXR5PSIxIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2xlc3NoYXQtZ2VuZXJhdGVkKSIgLz48L3N2Zz4=);
-    background-image: -webkit-linear-gradient(linear, left top, left bottom, from(#3ecdf1), to(#2badce));
-    background-image: -moz-linear-gradient(linear, left top, left bottom, from(#3ecdf1), to(#2badce));
-    background-image: -o-linear-gradient(linear, left top, left bottom, from(#3ecdf1), to(#2badce));
-    background-image: linear-gradient(linear, left to bottom, left bottom, from(#3ecdf1), to(#2badce))
+    background-image: -webkit-linear-gradient(linear, left top, left bottom, from(#fbc722), to(#2badce));
+    background-image: -moz-linear-gradient(linear, left top, left bottom, from(#fbc722), to(#2badce));
+    background-image: -o-linear-gradient(linear, left top, left bottom, from(#fbc722), to(#2badce));
+    background-image: linear-gradient(linear, left to bottom, left bottom, from(#fbc722), to(#2badce))
 }
 
 .btn-azure:hover,
 .open .btn-azure.dropdown-toggle {
-    background-color: #3ecdf1 !important;
-    border-color: #3ecdf1;
+    background-color: #fbc722 !important;
+    border-color: #fbc722;
     color: #fff
 }
 
@@ -835,8 +835,8 @@ fieldset[disabled] .btn-azure:active,
 .btn-azure.disabled.active,
 .btn-azure[disabled].active,
 fieldset[disabled] .btn-azure.active {
-    background-color: #2dc3e8 !important;
-    border-color: #2dc3e8;
+    background-color: #fbc722 !important;
+    border-color: #fbc722;
     zoom: 1;
     filter: alpha(opacity=50);
     -webkit-opacity: .5;
